@@ -15,3 +15,15 @@ This project is a text-to-image application that leverages cutting-edge AI techn
 Before you begin, ensure you have the following installed:
 - Python 3.10 or higher
 - pip
+
+
+### Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
+
+### Acknowledgments
+Streamlit for the easy-to-setup web interface.
+LangChain for providing the framework to incorporate AI in language understanding tasks.
+Eden.ai for their robust API for generating images from text.
+Python Imaging Library (PIL) for their extensive image processing capabilities
+
+- 

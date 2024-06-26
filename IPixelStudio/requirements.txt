@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain_core
+Pillow
+streamlit
+streamlit_option_menu
